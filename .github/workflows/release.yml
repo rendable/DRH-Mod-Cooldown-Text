@@ -1,0 +1,15 @@
+# On a tag vX.Y.Z equal to mod.json's version: drafts a release with the
+# mod's zip and index entry. The steps live in DRH-Mods-Workflows.
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    uses: Tutez64/DRH-Mods-Workflows/.github/workflows/release.yml@v1
+

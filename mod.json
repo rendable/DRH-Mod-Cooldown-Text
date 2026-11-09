@@ -1,0 +1,13 @@
+{
+  "id": "cooldown_text",
+  "name": "Cooldown Text",
+  "description": "Adds centered countdown text to weapon, consumable and timed player-effect HUD icons.",
+  "version": "0.2.2",
+  "author": "Danny",
+  "api": "1.2",
+  "drh": "17",
+  "entry": "Main",
+  "uses": [
+    "extends"
+  ]
+}

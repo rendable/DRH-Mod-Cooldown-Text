@@ -1,0 +1,7 @@
+data/
+*.zip
+*.log
+*.log.zst
+last-run.json
+.DS_Store
+Thumbs.db
