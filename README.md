@@ -4,16 +4,13 @@ I no longer really play the game, so ongoing updates and fixes are unlikely.
 
 # Cooldown Text
 
-Adds centered countdown text to weapon, consumable and timed player-effect HUD icons.
-
 <!-- drh:show -->
 Adds centered countdown text to weapon, consumable and timed player-effect HUD icons.
-<!-- /drh:show -->
-
 - Centered cooldown text on weapon and consumable buttons.
 - Smaller countdowns on timed player-effect icons.
 - Supports both HUD renderers and follows HUD movement and layout changes.
 - Only displays timers; actual cooldowns are unchanged.
+<!-- /drh:show -->
 
 ## Requirements
 
